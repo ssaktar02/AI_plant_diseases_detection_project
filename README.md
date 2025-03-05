@@ -1,4 +1,4 @@
-Plant Disease Detection & Chatbot
+AI Plant Disease Detection & Chatbot Assistant
 
 📌 Overview
 
