@@ -107,9 +107,6 @@ Deploy 🚀
 
 Pull requests are welcome! Please open an issue first for major changes.
 
-📝 License
-
-This project is licensed under the MIT License.
 
 📞 Contact
 
@@ -117,4 +114,3 @@ Developer: Sk Samim Aktar
 
 GitHub: ssaktar02
 
-Email: [your-email@example.com]
